@@ -6,6 +6,6 @@ Material Grey is a theme built for Mailspring mail client from the starter offic
 
 ## Installation
 
-Open Mailspring and install the theme by going to `Mailspring > Install New Theme...` and selecting the directory.
-<br><br>
-Cheers!
+* Download the repository ZIP.
+* Extract to a directory
+* Open Mailspring and install the theme by going to `Mailspring > Install New Theme...` and selecting the extracted directory.
